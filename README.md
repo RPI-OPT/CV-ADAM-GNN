@@ -1,6 +1,7 @@
 #  Neighbor-Sampling Based Momentum Stochastic Methods for Training Graph Neural Networks
 
- These are instructions to reproduce the experiments from [ARXIV LINK TO PAPER]. Our code is a modified version of https://github.com/THUDM/CogDL/tree/master/examples/VRGCN . This document includes:
+ These are instructions to reproduce the experiments from the paper our Neighbor-Sampling Based Momentum Stochastic Methods for Training Graph
+  Neural Networks, available at:  https://arxiv.org/abs/2508.00267 . Our code is a modified version of https://github.com/THUDM/CogDL/tree/master/examples/VRGCN . This document includes:
  - Package requirements for running the experiments
  - How to run the code to reproduce the results from the paper
  - How to modify the code for different datasets or hyperparameter settings
